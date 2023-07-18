@@ -1,6 +1,6 @@
 print("Привет , как тебя зовут?")
 user_name = input()
-print(f"Рады знакомствк, {user_name}, вам знаком английский язык? ")
+print(f"Рады знакомству, {user_name}, вам знаком английский язык? ")
 
 
 questions = ["My name ___ Vova", "I ___ a coder", "I live ___ Moscow"]
